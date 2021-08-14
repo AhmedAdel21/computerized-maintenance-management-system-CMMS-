@@ -40,11 +40,11 @@
 ![](materials/three_reports_surgery.gif)
 ## Our Tables of data after adding new equipment through our application 
 ![](materials/data_after_adding_new_equ.gif)
-# Our vedio
+# Our video
 <!-- blank line -->
 <figure>
   <video controls="true" allowfullscreen="true">
-    <source src="materials/video.mp4" type="video/mp4">
+    <source src="video.mp4" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
