@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>08_OVHD-Emergency.jpg</file>
+    <file>Cardiac-Surgery.jpg</file>
+    <file>surgical setting teaser.jpg</file>
+  </qresource>
+</RCC>
